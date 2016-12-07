@@ -2,7 +2,7 @@ package listpackage;
 
 /**
  * Pet class.
- *
+ *this class has been edited
  * @author 55jphillip
  */
 public class Pet {
@@ -12,7 +12,7 @@ public class Pet {
 
     public Pet() {
     }
-
+//this is a change
     public Pet(int id, String species, double price) {
         this.id = id;
         this.species = species;
